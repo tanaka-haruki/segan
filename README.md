@@ -1,5 +1,7 @@
 # SEGAN用データセットの用意
 
+使用パッケージ : wget, unzip, sox
+
 何か適当なフォルダを作成し，その中にdownsampling_dataset.shを入れる．
 
 ターミナルを開き，先ほど作成したフォルダに移動する．
